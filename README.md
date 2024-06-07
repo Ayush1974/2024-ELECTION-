@@ -1,4 +1,4 @@
-```markdown
+
 # Lok Sabha Election 2024 Data Analysis
 
 ## Overview
@@ -40,7 +40,3 @@ The dataset (`election_results_2024.csv`) comprises information on constituencie
 6. Open the Power BI file (`election_results_2024.pbix`) located in the 'Visualizations' folder using Power BI Desktop to explore interactive visualizations and gain further insights. The Power BI file provides a user-friendly interface for visualizing and interacting with the analyzed data.
 7. Feel free to customize the analysis according to your requirements or expand it with additional features and visualizations. You can modify the Python code to incorporate new analyses or adjust existing visualizations to suit your needs.
 8. To stay up-to-date with any changes or enhancements to the analysis, consider regularly pulling updates from the repository or subscribing to notifications for new releases.
-
-
-
-```
